@@ -28,6 +28,11 @@ Needed for file transfer for Rides, Stalls and Admin sections. Admin sections
 should have all the ac-cess of the files, while Rides & Stalls users should only
 be able to Read the files. WLAN users cannot use it.
 
+A Preview of the network design in Packet Tracer tool.
+![githubpacket](https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png)
+
+
+
 Subnetting for the network:
 ![Screenshot 2021-07-30 202302](https://user-images.githubusercontent.com/51827238/127671447-eb16ea0f-6e75-4214-8ec4-a07a37c1c677.png)
 
