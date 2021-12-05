@@ -1,5 +1,7 @@
 # Amusement-Park-Network-Design
-The main aim of this project is to design a prototype network system for Amusement Parks
+This Project was part of the CISCO Virtual Internship in May-July 2021.
+
+The main aim of this project was to design a prototype network system for Amusement Parks
 in Cisco Packet Tracer tool. 
 
 The network is divided into 5 separate network pools.
